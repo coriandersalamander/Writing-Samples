@@ -1,2 +1,5 @@
-# FirstTest
 # Writing-Samples
+# Hello. In this repository, I chose to showcase two pieces of my writing. 
+#  1) The RSQUARED document was a design specification written while I was working for the NYSE, intended to show how applications should treat expanded message formats. I opted for a humorous (albeit rudimentary) picture to illustrate how the new functionality works. Although I admit that the pictures have aged, I believe the illustrations accurately portrays the new functionality without distracting from the big picture. 
+
+# 2) The OTC Swaps document was a group project from Business School, so in the interest of full disclosure... I didn't write this entire document. Have a look at some of my contributions in the "Introduction" section on page 3. Although I mostly subscribe to the "a picture is worth 1000 words" philosophy when writing technical documents, there are times when an actual picture won't do. A word picture sometimes works better when trying to get your point across. I simply wanted to show that I can perform humorous text-based writing, as well. 
